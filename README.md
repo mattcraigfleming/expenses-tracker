@@ -1,2 +1,2 @@
-###React-Native Expenses Tracker
+### React-Native Expenses Tracker
 
